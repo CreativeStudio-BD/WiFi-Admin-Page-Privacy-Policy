@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: "Privacy Policy"
+description: "WiFi Admin Page App - Privacy Policy"
+github:
+  is_project_page: false
